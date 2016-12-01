@@ -1,0 +1,6 @@
+.box {
+  padding: 20px;
+  border: 1px solid #ddd;
+  background-color: #efefef;
+  background-image: url('~assets/images/diagonal.png');
+}
