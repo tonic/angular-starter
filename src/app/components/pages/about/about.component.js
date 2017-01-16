@@ -1,6 +1,8 @@
+import controller from './about.controller';
 import template from './about.template.html';
 
 const component = {
+  controller,
   template
 };
 

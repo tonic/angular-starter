@@ -1,2 +1,2 @@
-import 'bootstrap-css-only';
+import './index.scss';
 import './app/app.module';
