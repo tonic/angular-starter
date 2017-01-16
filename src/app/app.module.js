@@ -4,7 +4,7 @@ import component from './app.component';
 import components from './components/components.module';
 import config from './app.config';
 import run from './app.run';
-import './app.styles.scss';
+import './app.scss';
 
 const module = angular
   .module('app', [

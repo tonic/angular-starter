@@ -1,4 +1,4 @@
-import template from './navbar.template.html';
+import template from './navbar.html';
 
 const component = {
   template

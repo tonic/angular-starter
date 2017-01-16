@@ -10,7 +10,7 @@ app.get('/api/test', function (req, res) {
 });
 
 app.get('*', function (req, res) {
-  res.sendFile(path.join(__dirname, 'index.html'));
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
 var port = 8000;

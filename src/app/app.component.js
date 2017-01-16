@@ -1,4 +1,4 @@
-import template from './app.template.html';
+import template from './app.html';
 
 export default {
   template

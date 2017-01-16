@@ -1,5 +1,5 @@
 import controller from './about.controller';
-import template from './about.template.html';
+import template from './about.html';
 
 const component = {
   controller,

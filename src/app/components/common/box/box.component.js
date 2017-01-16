@@ -1,4 +1,4 @@
-import template from './box.template.html';
+import template from './box.html';
 
 const component = {
   template,

@@ -1,4 +1,4 @@
-import template from './home.template.html';
+import template from './home.html';
 
 const component = {
   template

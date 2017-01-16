@@ -1,6 +1,6 @@
 import angular from 'angular';
 import component from './box.component';
-import './box.styles.css';
+import './box.css';
 
 const module = angular
   .module('app.components.common.box', [])
